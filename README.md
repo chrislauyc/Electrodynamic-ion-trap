@@ -1,2 +1,2 @@
 # Electrodynamic ion trap
-Visualize the electric fields of a quadrupole and a hexapole ion guide
+Visualize the motion of a particle in a quadrupole field
